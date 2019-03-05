@@ -8,6 +8,7 @@ namespace WCFServer
 {
     static class AppValue
     {
+//
         public static AppParam _appParam = new AppParam();
         static public AppParam GetParam()
         {
